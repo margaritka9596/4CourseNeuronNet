@@ -1,0 +1,6 @@
+C:\Users\Margo\Desktop\нейронные сети\task3_console\bin\Release\task3_console.exe.config
+C:\Users\Margo\Desktop\нейронные сети\task3_console\bin\Release\task3_console.exe
+C:\Users\Margo\Desktop\нейронные сети\task3_console\bin\Release\task3_console.pdb
+C:\Users\Margo\Desktop\нейронные сети\task3_console\obj\Release\task3_console.exe
+C:\Users\Margo\Desktop\нейронные сети\task3_console\obj\Release\task3_console.pdb
+C:\Users\Margo\Desktop\нейронные сети\task3_console\obj\Release\task3_console.csprojResolveAssemblyReference.cache

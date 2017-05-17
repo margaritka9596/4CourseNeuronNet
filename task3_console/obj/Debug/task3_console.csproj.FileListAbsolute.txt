@@ -1,0 +1,12 @@
+C:\Users\Margo\Desktop\нейронные сети\task3_console\bin\Debug\task3_console.exe.config
+C:\Users\Margo\Desktop\нейронные сети\task3_console\bin\Debug\task3_console.exe
+C:\Users\Margo\Desktop\нейронные сети\task3_console\bin\Debug\task3_console.pdb
+C:\Users\Margo\Desktop\нейронные сети\task3_console\obj\Debug\task3_console.exe
+C:\Users\Margo\Desktop\нейронные сети\task3_console\obj\Debug\task3_console.pdb
+C:\Users\Margo\Desktop\нейронные сети\task3_console\obj\Debug\task3_console.csprojResolveAssemblyReference.cache
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\нейронные сети\task3_console\bin\Debug\task3_console.exe.config
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\нейронные сети\task3_console\obj\Debug\task3_console.exe
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\нейронные сети\task3_console\obj\Debug\task3_console.pdb
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\нейронные сети\task3_console\bin\Debug\task3_console.exe
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\нейронные сети\task3_console\bin\Debug\task3_console.pdb
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\нейронные сети\task3_console\obj\Debug\task3_console.csprojResolveAssemblyReference.cache
