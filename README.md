@@ -1,2 +1,2 @@
 # 4CourseNeuronNet
-Old net, reunion. Trying to increase accurancy from 50%
+Old net, reunion. Trying to increase accuracy
